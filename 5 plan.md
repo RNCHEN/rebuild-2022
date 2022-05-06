@@ -21,3 +21,16 @@
 ## 506 
 
 概率论=>
+
+![image-20220506160631606](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220506160631606.png)
+
+咱就是说啊
+
+这语气这态度
+
+哪里来的高人一等
+
+等我把你这网站给掀了
+
+8年稳定营业是吧
+
