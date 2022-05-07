@@ -89,7 +89,7 @@ $$
 
 
 
-## 多维随机变量
+## ==多维随机变量==
 
 1.  P78
 
@@ -107,7 +107,6 @@ $$
    
 
    
-
 2. 注意！！
 
    $$ E^2(x)  和 E(x^2) $$
@@ -120,19 +119,33 @@ $$
 
 
 
+然后是重点：
+
+3. 
+
+- 联合概率密度  联合分布函数
+- 边缘概率密度  边缘分布函数
+
+![image-20220507122118463](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220507122118463.png)
+
+
+
+4. 
+
+![image-20220507203231325](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220507203231325.png)
 
 
 
 
 
+## 随机变量的数字特征
 
+1. 随机变量的数学期望
 
+==对于Y=g( x )==
 
+F（Y）的分布函数
 
+和
 
-
-
-
-
-
-
+E（Y）的数学期望
