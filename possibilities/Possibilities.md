@@ -144,8 +144,73 @@ $$
 
 ==对于Y=g( x )==
 
-F（Y）的分布函数
+F（Y）的分布函数     y是一个过程量
 
 和
 
-E（Y）的数学期望
+E（Y）的数学期望     y是一个最终的结果量
+
+2. 两变量**相互独立**
+
+$$
+E(XY)=E(X)E(Y)
+$$
+
+由此可以得出
+$$
+D(X\pm Y)=D(X)+D(Y)+2E\lbrace [X-E(x)][Y-E(Y)] \rbrace
+$$
+当 X和Y独立的时候  E可以直接进去
+
+$$  E\lbrace [X-E(x)][Y-E(Y)] \rbrace = [E(x)-E(x)][E(y)-E(y)] =0 $$
+
+3. 协方差
+
+$$
+Cov(X,Y)=E\lbrace [X-E(x)][Y-E(Y)] \rbrace
+$$
+
+![image-20220508160055736](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508160055736.png)
+
+ 但是对于 二位正太随机变量  **相互独立=不相关**
+
+4. 矩
+
+https://zhuanlan.zhihu.com/p/355838840
+
+![image-20220508160757347](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508160757347.png)
+
+> 统计学中，**概率**与物理中的**质量**相对应
+
+https://zhuanlan.zhihu.com/p/357320540
+
+这才是真正的数学, 真正的对宇宙的探索
+
+之前完全对这些不了解
+
+![image-20220508162821864](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508162821864.png)
+
+## 大数定理 和 中心极限定理
+
+![image-20220508163755413](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508163755413.png)
+
+![image-20220508170915009](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508170915009.png)
+
+中心极限定理
+
+##  数理统计概念
+
+![image-20220508171240219](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508171240219.png)
+
+![image-20220508171340845](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508171340845.png)
+
+![image-20220508172610338](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508172610338.png)
+
+![image-20220508185552252](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508185552252.png)
+
+![image-20220508185623832](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508185623832.png)
+![image-20220508185638579](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508185638579.png)
+
+## 参数估计
+
+![image-20220508190707356](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508190707356.png)

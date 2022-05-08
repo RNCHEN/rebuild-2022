@@ -34,3 +34,8 @@
 
 8年稳定营业是吧
 
+## 508 
+
+ater this year may rest on eliminating all possible rivals, and making others carry the can if covid continues to batter China. Before then, if party leaders are at all vulnerable, it is because they look incompetent, not because their ruthlessness has been caught on camera.
+
+ In all cases, dissent is treated as sabotage
