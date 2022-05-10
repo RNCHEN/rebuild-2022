@@ -213,4 +213,63 @@ https://zhuanlan.zhihu.com/p/357320540
 
 ## 参数估计
 
+重点就是求参数
+
+相当于 
+$$
+\overline X 已知
+$$
 ![image-20220508190707356](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508190707356.png)
+
+点估计 
+
+1. 矩估计 
+
+   样本矩去估计总体矩
+
+![image-20220510214734515](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510214734515.png)
+
+![image-20220510214752600](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510214752600.png)
+
+2. 极大似然估计
+
+$$
+\lbrace X1 = x1, X2=x2 ....\rbrace事件已发生
+$$
+
+![image-20220510215323117](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510215323117.png)
+
+如何求==似然函数==  其实很简单 现在想明白了
+
+见 书 P161页
+
+![image-20220510221117974](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510221117974.png)
+
+![image-20220510221150434](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510221150434.png)
+
+3. 检验效果
+
+**无偏性、有效性、相合性**
+
+![image-20220510221604021](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510221604021.png)
+
+![image-20220510222319780](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510222319780.png)
+
+![image-20220510222332547](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510222332547.png)
+
+
+
+
+
+
+
+![image-20220510223159219](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510223159219.png)
+![image-20220510223210976](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510223210976.png)
+
+所以，只有样本均值等于真值均值时，样本方差的均值才等于真值方差。由于样本的随机性，样本均值取值不一定，所以分母为n的估计量均值 <= 真值方差，为有偏估计![image-20220510223234516](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220510223234516.png)
+
+>  那为什么样本均值是总体均值的无偏估计
+
+https://blog.csdn.net/qq_16587307/article/details/95787764
+
+https://www.cnblogs.com/hithink/p/10968326.html
