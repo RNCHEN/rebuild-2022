@@ -334,3 +334,21 @@ https://www.cnblogs.com/hithink/p/10968326.html
 
 ## 回归分析
 
+![image-20220511171616139](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511171616139.png)
+
+
+
+![image-20220511171628486](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511171628486.png)
+
+
+
+
+
+1. **一元线性回归的假设检验**
+
+相关系数
+
+![image-20220511171713574](../../../AppData/Roaming/Typora/typora-user-images/image-20220511171713574.png)
+
+F检验 一轮没看
+
