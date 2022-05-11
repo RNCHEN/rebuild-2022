@@ -39,3 +39,28 @@
 ater this year may rest on eliminating all possible rivals, and making others carry the can if covid continues to batter China. Before then, if party leaders are at all vulnerable, it is because they look incompetent, not because their ruthlessness has been caught on camera.
 
  In all cases, dissent is treated as sabotage
+
+# 511
+
+人们如何决策
+
+人们如何相互作用
+
+整体经济如何运行
+
+导数：细小的变化引起的变化
+
+经济学是行为科学
+
+市场价格---看不见的手
+
+市场不是万能的
+
+假设不是越接近现实越好    假设越少越好
+
+数据只能证伪不能证明
+
+
+
+
+
