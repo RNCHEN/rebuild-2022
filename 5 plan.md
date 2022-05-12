@@ -62,5 +62,14 @@ ater this year may rest on eliminating all possible rivals, and making others ca
 
 
 
+##  512
+
+Iron man Yes, 
+
+Tony stark not recommended
 
 
+
+我们喜欢的到底是一个人 还是 他的展现出来的形象
+
+就像当初第一次看虚拟偶像
