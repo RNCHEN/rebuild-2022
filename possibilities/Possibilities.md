@@ -1,3 +1,5 @@
+
+
 # Possibilities
 
 505
@@ -206,10 +208,30 @@ https://zhuanlan.zhihu.com/p/357320540
 
 ![image-20220508172610338](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508172610338.png)
 
-![image-20220508185552252](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508185552252.png)
 
-![image-20220508185623832](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508185623832.png)
+
+![image-20220508185552252](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220513161337216.png)
+
+
+
+
+![image-20220508185623832](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220513161351751.png)
+
+![image-20220513161436174](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220513161436174.png)
+
+![image-20220513161448246](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220513161448246.png)
+
+![image-20220513161929766](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220513161929766.png)
+
 ![image-20220508185638579](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220508185638579.png)
+
+
+
+
+
+
+
+
 
 ## 参数估计
 
