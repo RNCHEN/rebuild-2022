@@ -273,3 +273,82 @@ $$
 https://blog.csdn.net/qq_16587307/article/details/95787764
 
 https://www.cnblogs.com/hithink/p/10968326.html
+
+为什么随机变量的均值 = 总体均值  
+
+![image-20220511150721902](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511150721902.png)
+
+为什么
+
+大数定理
+
+![image-20220511151600095](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511151600095.png)
+
+![image-20220511161703965](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511161703965.png)
+
+1. 选取待估参数θ的估计量    估计量是已知量
+
+2. 建立枢轴变量    *重点：参数和估计量之间的枢轴变量*   枢轴变量是包含除θ外的
+
+3. 确定W的分布
+
+4. 根据W的分布，对置信水平1－α查上侧分位数,使
+
+5. 改写不等式得
+
+
+
+- 对正态总体参数估计
+
+![image-20220511163940797](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511163940797.png)
+
+![image-20220511163951536](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511163951536.png)
+
+![image-20220511164003673](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511164003673.png)
+
+![image-20220511164011465](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511164011465.png)
+
+![image-20220511164311882](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511164311882.png)
+
+
+
+要尽量用上所有的已知量
+
+
+
+
+
+- 对非正态参数
+
+大样本  看书 
+
+
+
+![image-20220511164359523](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511164359523.png)
+![image-20220511164415945](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511164415945.png)
+![image-20220511164430152](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511164430152.png)
+
+
+
+## 假设检验
+
+## 回归分析
+
+![image-20220511171616139](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511171616139.png)
+
+
+
+![image-20220511171628486](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220511171628486.png)
+
+
+
+
+
+1. **一元线性回归的假设检验**
+
+相关系数
+
+![image-20220511171713574](../../../AppData/Roaming/Typora/typora-user-images/image-20220511171713574.png)
+
+F检验 一轮没看
+
