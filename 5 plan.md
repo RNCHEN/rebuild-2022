@@ -62,7 +62,7 @@ ater this year may rest on eliminating all possible rivals, and making others ca
 
 
 
-##  512
+#  512
 
 Iron man Yes, 
 
@@ -87,4 +87,12 @@ Tony stark not recommended
 列提纲和这些有什么不一样？
 
 非要叫思维导图么 
+
+# 515
+
+一点自己的想法
+
+OKR也好 什么康奈尔笔记系统也好， 什么思维导图也好
+
+不过只是帮助理清思路的框架，不必拘泥的套用公式，发现公式中的闪光点然后自己利用，就很好了啦。
 
