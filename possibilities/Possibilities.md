@@ -27,6 +27,8 @@ $$
 
    概率分布函数
 
+   单调有界连续（右连续）
+
 2. 伯努利分布   离散
    $$
    X\sim(n,p)
@@ -374,3 +376,12 @@ https://www.cnblogs.com/hithink/p/10968326.html
 
 F检验 一轮没看
 
+![image-20220607141619006](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/20220607141626.png)
+
+![image-20220607141645296](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/20220607141645.png)
+
+概率为0的事件也有可能发生
+
+![image-20220608214914993](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/20220608214922.png)
+
+![image-20220608214944459](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/20220608214944.png)
